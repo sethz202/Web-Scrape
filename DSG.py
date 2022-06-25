@@ -1,3 +1,6 @@
+# Seth Zerwas
+# 2022
+
 from discord_webhook import DiscordWebhook, DiscordEmbed
 from selenium import webdriver
 from selenium.webdriver.common.by import By
